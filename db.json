@@ -1,0 +1,29 @@
+{
+    "articles": [
+        {
+        "id": "1",
+        "title": "LUKACITA",
+        "content": "by Valerie Patkar"
+        },
+        {
+        "id": "2",
+        "title": "SERANGKAI",
+        "content": "by Valerie Patkar"
+        },
+        {
+        "id": "3",
+        "title": "MURDER ON THE ORIENT EXPRESS",
+        "content": "by Agatha Chritie"
+        },
+        {
+        "id": "4",
+        "title": "The Major",
+        "content": "by DUSKINTHERAIN"
+        },
+        {
+        "id": "5",
+        "title": "In a Blue Moon",
+        "content": "by Ilana Tan"
+        }
+    ]
+}
